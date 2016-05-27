@@ -6,7 +6,11 @@ node_modules
 typings
 typings.json
 
+sample/**/*.js
+sample/**/*.map
+
 npm-debug.log
+*.map
 
 *.iml
 .idea/
